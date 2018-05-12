@@ -1,0 +1,46 @@
+_repo: The-History-of-Creation-Vol.-II--of-2-Action-of-Natural-Causes_40473
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Schmitz, L. Dora
+    gutenberg_agent_id: '42861'
+    url: http://www.gutenberg.org/2009/agents/42861
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haeckel, Ernst
+    alias: Haeckel, Ernst Heinrich Philipp August
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '2037'
+    url: http://www.gutenberg.org/2009/agents/2037
+    wikipedia: http://en.wikipedia.org/wiki/Ernst_Haeckel
+  editor:
+    agent_name: Lankester, E. Ray (Edwin Ray), Sir
+    aliases:
+    - Lankester, Ray, Sir
+    - Lankester, Edwin Ray, Sir
+    birthdate: 1847
+    deathdate: 1929
+    gutenberg_agent_id: '32398'
+    url: http://www.gutenberg.org/2009/agents/32398
+    wikipedia: http://en.wikipedia.org/wiki/Ray_Lankester
+description: ''
+gutenberg_issued: '2012-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Evolution'
+- !lcsh 'Human beings -- Origin'
+- !lcc 'QH'
+- !lcsh 'Heredity'
+title: "The History of Creation, Vol. 2 (of 2)\r\nOr the Development of the Earth\
+  \ and its Inhabitants by the Action of Natural Causes"
+url: http://www.gutenberg.org/ebooks/40473
